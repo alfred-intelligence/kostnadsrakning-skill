@@ -1,6 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
   "name": "kostnadsrakning",
+  "version": "0.1.1",
   "description": "Genererar svenska rättegångskostnadsräkningar som PDF med periodvis uppdelning, måldelskategorisering och sex analytiska perspektiv.",
   "author": {
     "name": "Mr.RedHat",
